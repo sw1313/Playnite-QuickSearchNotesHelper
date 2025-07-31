@@ -1,2 +1,5 @@
 # QuickSearchNotesHelper
-Playnite QuickSearch附属插件，将游戏别名列入备注元数据之后，ctrl+f调用Quicksearch进行搜索，可以通过别名找到游戏
+Playnite QuickSearch附属插件，将游戏别名列入备注元数据之后，ctrl+f调用Quicksearch进行搜索，可以通过别名找到游戏<br>
+使用方法，新建一个文件夹，将所有文件放入该文件夹，将其放入Playnite的Extensions文件夹<br>
+Playnite QuickSearch plugin, after adding game aliases to the metadata notes, use ctrl+f to call Quicksearch for searching, you can find games by their aliases.<br>
+Instructions: Create a new folder, place all files in the folder, and put it into Playnite's Extensions folder.<br>
