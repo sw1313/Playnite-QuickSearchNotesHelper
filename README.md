@@ -1,0 +1,2 @@
+# QuickSearchNotesHelper
+Playnite QuickSearch附属插件，将游戏别名列入备注元数据之后，ctrl+f调用Quicksearch进行搜索，可以通过别名找到游戏
