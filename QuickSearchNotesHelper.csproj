@@ -33,18 +33,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Playnite.SDK">
-      <HintPath>W:\Playnite\Playnite.SDK.dll</HintPath>
-      <Private>true</Private>
-    </Reference>
-    <Reference Include="QuickSearchSDK">
-      <HintPath>W:\Playnite\Extensions\felixkmh_QuickSearch_Plugin\QuickSearchSDK.dll</HintPath>
-      <Private>true</Private>
-    </Reference>
-    <Reference Include="QuickSearchSDK.Attributes">
-      <HintPath>W:\Playnite\Extensions\felixkmh_QuickSearch_Plugin\QuickSearchSDK.Attributes.dll</HintPath>
-      <Private>true</Private>
+      <HintPath>..\..\..\AppData\Local\Playnite\Playnite.SDK.dll</HintPath>
     </Reference>
     <Reference Include="PresentationFramework" />
+    <Reference Include="QuickSearchSDK">
+      <HintPath>..\..\..\AppData\Roaming\Playnite\Extensions\felixkmh_QuickSearch_Plugin\QuickSearchSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="QuickSearchSDK.Attributes">
+      <HintPath>..\..\..\AppData\Roaming\Playnite\Extensions\felixkmh_QuickSearch_Plugin\QuickSearchSDK.Attributes.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
